@@ -10,6 +10,7 @@ The data looks like this:
 ![image](https://user-images.githubusercontent.com/78446548/109012385-3f1c2f00-76b2-11eb-8b00-a494ca2825c7.png)
 
 The neural network is consisting of an input layer (12 nodes), a hidden layer (30 nodes) and an output layer (one node with the future stock return).
+
 The network structure (Tensorflow Dashboard / Tensorboard):
 
 ![image](https://user-images.githubusercontent.com/78446548/109649651-809e5580-7b5c-11eb-9169-e7123a4005e1.png)
