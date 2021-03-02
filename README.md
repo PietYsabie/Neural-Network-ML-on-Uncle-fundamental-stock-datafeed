@@ -1,7 +1,7 @@
 # Neural-Network-ML-on-Uncle-fundamental-stock-datafeed
 Neural Network ML to predict portfolio performance based on Uncle fundamental stock datafeed.
 
-The objective is to let the neural network predict the future stock price.
+The objective is to let the neural network predict the future stock return.
 
 Read a dataset with fundamentals on stocks: one row is one stock at a given moment in time.
 
@@ -25,6 +25,6 @@ The convergence of the losses on training and validation dataset:
 
 ![image](https://user-images.githubusercontent.com/78446548/109648782-513b1900-7b5b-11eb-8b24-322bb3fd5226.png)
 
-Finally the resulting relations between stock price predictions and real historical stock prices for the test set:
+Finally the resulting relations between stock price predictions and real historical stock returns for the test set. The black line is the 'perfect prediction' (predicted stock return = real stock return):
 
 ![image](https://user-images.githubusercontent.com/78446548/109011090-d97b7300-76b0-11eb-8946-71c6629ff51b.png)
