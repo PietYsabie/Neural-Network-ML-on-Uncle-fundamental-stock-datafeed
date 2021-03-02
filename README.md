@@ -14,7 +14,7 @@ The network structure (Tensorflow Dashboard / Tensorboard):
 
 ![image](https://user-images.githubusercontent.com/78446548/109649651-809e5580-7b5c-11eb-9169-e7123a4005e1.png)
 
-The fully unfolded network architecture consists of an input layer, one hidden layer and one output node:
+Fully unfolded network architecture:
 
 ![image](https://user-images.githubusercontent.com/78446548/109649492-48971280-7b5c-11eb-9148-7b28bde05f55.png)
 
