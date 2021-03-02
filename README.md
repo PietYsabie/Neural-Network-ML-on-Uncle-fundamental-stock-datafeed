@@ -7,7 +7,7 @@ The data looks like this:
 ![image](https://user-images.githubusercontent.com/78446548/109012385-3f1c2f00-76b2-11eb-8b00-a494ca2825c7.png)
 
 A neural network is defined consisting of an input layer, a hidden layer and an output layer.
-The network structure looks like this (Tensorflow Dashboard):
+The network structure (Tensorflow Dashboard / Tensorboard):
 
 ![image](https://user-images.githubusercontent.com/78446548/109649651-809e5580-7b5c-11eb-9169-e7123a4005e1.png)
 
@@ -17,7 +17,7 @@ The fully unfolded network architecture consists of an input layer, one hidden l
 
 
 
-The convergence of the losses and looks like this:
+The convergence of the losses on training and validation dataset:
 
 ![image](https://user-images.githubusercontent.com/78446548/109648782-513b1900-7b5b-11eb-8b24-322bb3fd5226.png)
 
