@@ -22,3 +22,5 @@ The convergence of the losses and looks like this:
 ![image](https://user-images.githubusercontent.com/78446548/109648782-513b1900-7b5b-11eb-8b24-322bb3fd5226.png)
 
 Finally the resulting realtions between stock price predictions and real historical stock prices for the test set:
+
+https://github.com/PietYsabie/Machine-Learning---Regression-Model-for-screener/issues/2#issue-815504668
