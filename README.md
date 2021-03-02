@@ -24,6 +24,6 @@ The convergence of the losses on training and validation dataset:
 
 ![image](https://user-images.githubusercontent.com/78446548/109648782-513b1900-7b5b-11eb-8b24-322bb3fd5226.png)
 
-Finally the resulting realtions between stock price predictions and real historical stock prices for the test set:
+Finally the resulting relations between stock price predictions and real historical stock prices for the test set:
 
 ![image](https://user-images.githubusercontent.com/78446548/109011090-d97b7300-76b0-11eb-8946-71c6629ff51b.png)
