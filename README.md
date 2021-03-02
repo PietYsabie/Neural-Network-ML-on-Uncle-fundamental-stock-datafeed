@@ -11,5 +11,6 @@ The network structure looks like this (Tensorflow Dashboard):
 
 
 The convergence of the losses and looks like this:
+![image](https://user-images.githubusercontent.com/78446548/109648782-513b1900-7b5b-11eb-8b24-322bb3fd5226.png)
 
 Finally the network chart is this:
