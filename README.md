@@ -21,7 +21,7 @@ Fully unfolded network architecture:
 
 GPU = Intel UHD Graphics 620, CPU = Intel Core i7 - 8565 U @ 1.8 Ghz
 
-Tensorflow services are spawned to execute the kernel implementations appropriate to the available hardware (either GPU or CPU)
+Tensorflow services are (automatically) spawned to execute the kernel implementations appropriate to the available hardware (either GPU or CPU)
 
 The convergence of the losses on training and validation dataset (blue = loss, red = val_loss):
 
