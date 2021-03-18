@@ -25,16 +25,17 @@ Tensorflow services are spawned to execute the kernel implementations appropriat
 
 The convergence of the losses on training and validation dataset:
 
-after 50 epochs, STOP criterium = fixed 50, hyperparameters not optimised
+![image](https://user-images.githubusercontent.com/78446548/109648782-513b1900-7b5b-11eb-8b24-322bb3fd5226.png)
+
+After 50 epochs, STOP criterium = fixed 50, hyperparameters not optimised
 
 Activation functione relu
 
-tech stack Tensorflow with keras
+Tech stack Tensorflow with keras
 
 Further details see notebook
 
 
-![image](https://user-images.githubusercontent.com/78446548/109648782-513b1900-7b5b-11eb-8b24-322bb3fd5226.png)
 
 Finally the resulting relations between stock price predictions and real historical stock returns for the test set. The black line is the 'perfect prediction' (predicted stock return = real stock return):
 
