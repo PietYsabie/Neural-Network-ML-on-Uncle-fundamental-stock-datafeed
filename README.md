@@ -43,6 +43,6 @@ Finally the resulting relations between stock price predictions and real histori
 
 The real returns of the TEST data series = 18.7 %
 
-The predicted best 30 stocks of the portfolio (out of 70 in TEST set) = 35,9 %
+On the predicted best 30 stocks of the portfolio (out of 70 in TEST set) the average return = 35,9 %
 
 
