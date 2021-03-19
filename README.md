@@ -9,7 +9,7 @@ The data looks like this:
 
 ![image](https://user-images.githubusercontent.com/78446548/109012385-3f1c2f00-76b2-11eb-8b00-a494ca2825c7.png)
 
-The neural network is 12 * 30 * 1 fully connected deep NN consisting of an input layer (12 nodes), a hidden layer (30 nodes) and an output layer (one node with the future stock return).
+The neural network is a 12 * 30 * 1 fully connected deep NN consisting of an input layer (12 nodes), a hidden layer (30 nodes) and an output layer (one node with the future stock return).
 
 The network structure (Tensorflow Dashboard / Tensorboard):
 
